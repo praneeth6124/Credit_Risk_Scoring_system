@@ -96,7 +96,7 @@ if st.button("Predict Risk"):
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://credit-risk-scoring-system-5k5d.onrender.com/",
         json=payload
     )
 
@@ -117,5 +117,6 @@ if st.button("Predict Risk"):
 
     else:
         st.error("API Error")
+
 
 
