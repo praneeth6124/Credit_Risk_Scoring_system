@@ -52,7 +52,7 @@ An end-to-end machine learning system that predicts customer default risk and tr
 - **Decision Engine:** Converts probability → business decision  
 - **SHAP:** Explains *why* the decision was made
 
----
+
 
 ## Explainability (SHAP)
 
@@ -60,7 +60,7 @@ An end-to-end machine learning system that predicts customer default risk and tr
 - Highlights factors contributing to **approval or rejection**  
 - Provides **transparent decision reasoning**  
 
----
+
 
 ## Key Highlights
 
@@ -69,7 +69,7 @@ An end-to-end machine learning system that predicts customer default risk and tr
 - Strong focus on **interpretability and deployment**  
 - Clean modular structure suitable for production systems  
 
----
+
 
 ## Conclusion
 
